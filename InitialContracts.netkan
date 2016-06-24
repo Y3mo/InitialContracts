@@ -4,6 +4,7 @@
     "name"           : "Contract Pack: Initial Contracts",
     "$kref"          : "#/ckan/kerbalstuff/577",
     "x_netkan_license_ok" : true,
+    "ksp_version_max": "1.99.99",
     "depends" : [
         { "name": "ContractConfigurator" },
         { "name": "ModuleManager" }
